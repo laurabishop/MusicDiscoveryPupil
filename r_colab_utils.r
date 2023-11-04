@@ -23,5 +23,6 @@ shell_call('sudo apt install r-cran-ggplot2')
 shell_call('sudo apt install r-cran-mgsub')
 shell_call('sudo apt install r-cran-sciplot')
 shell_call('sudo apt install r-cran-car')
+shell_call('sudo apt install r-cran-fitdistrplus')
 
 install.packages(c("FBN", "lmerTest"), lib = "/usr/local/lib/R/site-library")
