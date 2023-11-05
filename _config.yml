@@ -3,7 +3,7 @@ title: "Music Discovery Physiology"
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Materials for t tutorial "Analysing Physiological Data Collected During Music Listening: An Introduction" presented at ISMIR 2023 in Milan, Italy.
+  Materials for the tutorial "Analysing Physiological Data Collected During Music Listening: An Introduction" presented at ISMIR 2023 in Milan, Italy.
 
 # Build settings
 theme: minima
